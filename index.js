@@ -8,7 +8,7 @@ bot.on('ready', () => {
     console.info(`Logged in as ${bot.user.tag}!`);
 });
 
-bot.login("OTMyMTUzMTk0MzU4OTA2OTAz.YeO1UA.08Z3rM5nu9p9w6k0x4CpaAeBI5w")
+bot.login("OTMyMTUzMTk0MzU4OTA2OTAz.YeO1UA.-SPR0fdAEYCzhf5UFJ8HSLwgcxU")
 
 bot.on('message', msg => {
     
